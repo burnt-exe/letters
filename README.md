@@ -122,7 +122,7 @@ html
 
 <div class="gallery">
   <img src="" alt="Illuminati Eye Symbol">
-  <img src="" alt="All-Seeing Eye on Dollar">
+  <img src="https://en.m.wikipedia.org/wiki/File:Adam_Weishaupt01.jpg" alt="All-Seeing Eye on Dollar">
   <img src="" alt="Pyramid of Khafre">
 </div>
 
@@ -160,9 +160,9 @@ html
 ---
 
 ## References
-- [Illuminati Symbolism on Wiki Commons]()
-- [Beyoncé on Wiki Commons]()
-- [The Pyramid of Khafre]()
-- [All-Seeing Eye on Dollar]()
+- [Illuminati Symbolism on Wiki Commons](https://en.m.wikipedia.org/wiki/File:Adam_Weishaupt01.jpg)
+- [Beyoncé on Wiki Commons](https://youtu.be/NQ4C-R60hu8?si=DRcoU-8rKYpwY2zl)
+- [The Pyramid of Khafre](https://web.archive.org/web/20100226060344/http://www.talkingpyramids.com/giza/pyramid-of-khafre/)
+- [All-Seeing Eye on Dollar](https://en.m.wikipedia.org/wiki/Eye_of_Providence)
 
 ---
