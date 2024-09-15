@@ -18,7 +18,7 @@ Using Pinterest boards, users curate collections of images and symbols, reinforc
 ### Example Layout:
 html
 <div style="display: flex; justify-content: center;">
-  <img src="https://share.icloud.com/photos/0feaIuTu4wMb4bnQ13iKParJg" alt="Pyramid of Khafre" width="300" height="300" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Khafre_statue.jpg" alt="Pyramid of Khafre" width="300" height="300" />
   <p style="padding-left: 20px;">Many boards feature curated collections of symbols and imagery like this pyramid.</p>
 </div>
 
