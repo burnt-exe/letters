@@ -16,7 +16,7 @@ Conspiracy theorists frequently cite symbols such as the **All-Seeing Eye** and 
 Using Pinterest boards, users curate collections of images and symbols, reinforcing their belief in the Illuminati. These curated spaces can serve as **echo chambers**, amplifying the reach of conspiracy theories.
 
 ### Example Layout:
-html
+
 <div style="display: flex; justify-content: center;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Khafre_statue.jpg" alt="Pyramid of Khafre" width="300" height="300" />
   <p style="padding-left: 20px;">Many boards feature curated collections of symbols and imagery like this pyramid.</p>
@@ -32,7 +32,6 @@ _Image: Pyramid of Khafre, Egypt_ ([source](https://upload.wikimedia.org/wikiped
 As users pin more Illuminati-related content, Pinterest’s algorithm recommends similar content. This creates a feedback loop, pushing users deeper into conspiratorial content without exposure to fact-checking or opposing viewpoints.
 
 
-html
 
 
 <blockquote>
@@ -47,7 +46,7 @@ html
 
 Conspiracy theorists often link the Illuminati to celebrities. Pinterest hosts many pins claiming famous people like **Beyoncé** and **Jay-Z** are Illuminati members.
 
-html
+
 <div style="text-align: center;">
   <img src="https://th.bing.com/th/id/OIP.tyuIOLse7pHUtN3Y14H8kwHaIE?dpr=3&pid=ImgDetMain" alt="Beyoncé Illuminati" width="400">
   <p><em>Image: Beyoncé, often linked with the Illuminati in conspiracy theories. ([source](https://th.bing.com/th/id/OIP.tyuIOLse7pHUtN3Y14H8kwHaIE?dpr=3&pid=ImgDetMain))</em></p>
@@ -63,7 +62,7 @@ _Image: Beyoncé during her Formation World Tour, 2016_ ([source](https://common
 
 Memes play a significant role in normalizing Illuminati theories on Pinterest. Humor and viral content help spread these ideas quickly.
 
-html
+
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://i.pinimg.com/736x/b9/87/8c/b9878c2f20b449bb803477c4671d07a4--conspiracy-theories-illuminati-conspiracy.jpg" alt="Illuminati Meme" width="250" />
   <p style="padding-left: 20px;">Illuminati memes like this one blend humor and conspiracy, helping these ideas spread. ([source](https://commons.wikimedia.org/wiki/File:Illuminati_eye_triangle.svg))</p>
@@ -79,7 +78,7 @@ _Image: The Illuminati Eye in a triangle_ ([source](https://www.shutterstock.com
 
 In this section, we'll add an interactive element where users can click to expand and reveal more information. This is useful when breaking down dense information or hiding advanced topics.
 
-html
+
 <details>
   <summary><strong>Click to Expand: Understanding the Origins of Illuminati Theories</strong></summary>
   
@@ -95,7 +94,7 @@ html
 
 A gallery with hover effects that change the appearance of an image can make the content more engaging for users.
 
-html
+
 <style>
   .gallery {
     display: flex;
@@ -125,13 +124,10 @@ html
 
 Pinterest's visual and algorithm-driven platform has facilitated the rapid spread of Illuminati conspiracy theories. The mix of curated content, echo chambers, and visually appealing symbols can draw users deeper into these narratives. 
 
-### CSS Animation Example (Interactive Element):
-html
-  
 </style>
 
 <div class="illuminati-icon">
-  <img src="https://www.shutterstock.com/image-vector/illuminati-icon-masonic-third-eye-logo-2507415549" alt="Illuminati Triangle" width="100">
+  <img src="https://www.shutterstock.com/shutterstock/photos/2507415549/display_1500/stock-vector-illuminati-icon-masonic-third-eye-logo-all-seeing-eye-inside-triangle-divider-and-ruler-pyramid-2507415549.jpg" alt="Illuminati Triangle" width="100">
 </div>
 <p><em>This rotating triangle adds an interactive flair to the page.</em></p>
 
