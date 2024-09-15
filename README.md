@@ -5,7 +5,7 @@ Conspiracy theories, particularly those surrounding the Illuminati, have found a
 ---
 
 ## **1. Visual Symbolism**
-![All-Seeing Eye](https://upload.wikimedia.org/wikipedia/commons/5/5a/All_seeing_eye_on_dollar.jpg)
+![All-Seeing Eye](https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/the-all-seeing-eye-on-the-back-of-a-dollar-bill-paulpaladin.jpg)
 _Image: The All-Seeing Eye, a common symbol linked to Illuminati conspiracy theories_ ([source](https://commons.wikimedia.org/wiki/File:All_seeing_eye_on_dollar.jpg))
 
 Conspiracy theorists frequently cite symbols such as the **All-Seeing Eye** and **pyramids** as evidence of the Illuminati’s influence. These symbols are often shared in aesthetic images on Pinterest, gaining attention.
