@@ -9,6 +9,16 @@
 ![Availability: Immediate](https://img.shields.io/badge/Availability-Immediate-green)
 ![Budget: ZAR 700 – ZAR 1,500](https://img.shields.io/badge/Budget-ZAR%20700%20–%20ZAR%201500-orange)
 
+Here are the badges for the rental figures:
+
+- ![Hangar Space: 4000 sqm](https://img.shields.io/badge/Hangar%20Space-4000%20sqm-blue)
+- ![Yard Space: 2500 sqm](https://img.shields.io/badge/Yard%20Space-2500%20sqm-green)
+- ![Price Range: R35 - R45/sqm](https://img.shields.io/badge/Price%20Range-R35%20--%20R45%2Fsqm-orange)
+
+### Total Monthly Rental:
+- ![Minimum Rent: R227,500](https://img.shields.io/badge/Min%20Rent-R227%2C500-brightgreen)
+- ![Maximum Rent: R292,500](https://img.shields.io/badge/Max%20Rent-R292%2C500-red)
+
 ---
 
 ## Target Audience
