@@ -6,7 +6,7 @@ Conspiracy theories, particularly those surrounding the Illuminati, have found a
 
 ## **1. Visual Symbolism**
 ![All-Seeing Eye](https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/the-all-seeing-eye-on-the-back-of-a-dollar-bill-paulpaladin.jpg)
-_Image: The All-Seeing Eye, a common symbol linked to Illuminati conspiracy theories_ ([source](https://commons.wikimedia.org/wiki/File:All_seeing_eye_on_dollar.jpg))
+_Image: The All-Seeing Eye, a common symbol linked to Illuminati conspiracy theories_ ([source](https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/the-all-seeing-eye-on-the-back-of-a-dollar-bill-paulpaladin.jpg))
 
 Conspiracy theorists frequently cite symbols such as the **All-Seeing Eye** and **pyramids** as evidence of the Illuminati’s influence. These symbols are often shared in aesthetic images on Pinterest, gaining attention.
 
@@ -31,17 +31,9 @@ _Image: Pyramid of Khafre, Egypt_ ([source](https://upload.wikimedia.org/wikiped
 ## **3. Echo Chambers on Pinterest**
 As users pin more Illuminati-related content, Pinterest’s algorithm recommends similar content. This creates a feedback loop, pushing users deeper into conspiratorial content without exposure to fact-checking or opposing viewpoints.
 
-Here’s an example of a **CSS-styled blockquote** highlighting the dangers of such echo chambers:
 
 html
-<style>
-  blockquote {
-    border-left: 4px solid #ccc;
-    padding-left: 20px;
-    color: #666;
-    font-style: italic;
-  }
-</style>
+
 
 <blockquote>
   "Once a user starts pinning conspiracy theories, Pinterest’s recommendations reinforce the narrative, turning their feed into an echo chamber."
@@ -121,9 +113,9 @@ html
 </style>
 
 <div class="gallery">
-  <img src="" alt="Illuminati Eye Symbol">
+  <img src="https://en.m.wikipedia.org/wiki/Eye_of_Providence" alt="Illuminati Eye Symbol">
   <img src="https://en.m.wikipedia.org/wiki/File:Adam_Weishaupt01.jpg" alt="All-Seeing Eye on Dollar">
-  <img src="" alt="Pyramid of Khafre">
+  <img src="https://web.archive.org/web/20100226060344/http://www.talkingpyramids.com/giza/pyramid-of-khafre/" alt="Pyramid of Khafre">
 </div>
 
 
@@ -135,19 +127,6 @@ Pinterest's visual and algorithm-driven platform has facilitated the rapid sprea
 
 ### CSS Animation Example (Interactive Element):
 html
-<style>
-  .illuminati-icon {
-    display: inline-block;
-    animation: rotate 5s linear infinite;
-  }
-  @keyframes rotate {
-    from {
-      transform: rotate(0deg);
-    }
-    to {
-      transform: rotate(360deg);
-    }
-  }
   
 </style>
 
