@@ -23,8 +23,8 @@ html
 </div>
 
 
-![Pyramid of Khafre](https://upload.wikimedia.org/wikipedia/commons/2/21/Pyramid_of_Khafre.jpg)
-_Image: Pyramid of Khafre, Egypt_ ([source](https://commons.wikimedia.org/wiki/File:Pyramid_of_Khafre.jpg))
+![Pyramid of Khafre](https://upload.wikimedia.org/wikipedia/commons/6/69/Pyramid_of_Khafre_and_Sphinx%2C_Giza%2C_Greater_Cairo%2C_Egypt.jpg)
+_Image: Pyramid of Khafre, Egypt_ ([source](https://upload.wikimedia.org/wikipedia/commons/6/69/Pyramid_of_Khafre_and_Sphinx%2C_Giza%2C_Greater_Cairo%2C_Egypt.jpg))
 
 ---
 
@@ -47,6 +47,7 @@ html
   "Once a user starts pinning conspiracy theories, Pinterest’s recommendations reinforce the narrative, turning their feed into an echo chamber."
 </blockquote>
 
+https://www.canva.com/design/DAGQ0xklTC8/xOJ4bqGA-HJh3CeqOuTcWw/edit?utm_content=DAGQ0xklTC8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ---
 
@@ -61,7 +62,7 @@ html
 </div>
 
 
-![Beyoncé Illuminati](https://upload.wikimedia.org/wikipedia/commons/2/2c/Beyonce_Formation_World_Tour_2016.jpg)
+![Beyoncé Illuminati](https://th.bing.com/th/id/R.d0c9664ca7454fba102561d5d40033b7?rik=0n3B7POFQDMOjw&riu=http%3a%2f%2fwww.texasmonthly.com%2fwp-content%2fuploads%2f2013%2f02%2fbeyonce_0.jpg&ehk=TkXF5Ly0TBw2ODlJoKRq97%2fxVPJXBYPdwSVv0hpHDHM%3d&risl=&pid=ImgRaw&r=0)
 _Image: Beyoncé during her Formation World Tour, 2016_ ([source](https://commons.wikimedia.org/wiki/File:Beyonce_Formation_World_Tour_2016.jpg))
 
 ---
@@ -72,13 +73,13 @@ Memes play a significant role in normalizing Illuminati theories on Pinterest. H
 
 html
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Illuminati_eye_triangle.svg" alt="Illuminati Meme" width="250" />
+  <img src="https://i.pinimg.com/736x/b9/87/8c/b9878c2f20b449bb803477c4671d07a4--conspiracy-theories-illuminati-conspiracy.jpg" alt="Illuminati Meme" width="250" />
   <p style="padding-left: 20px;">Illuminati memes like this one blend humor and conspiracy, helping these ideas spread. ([source](https://commons.wikimedia.org/wiki/File:Illuminati_eye_triangle.svg))</p>
 </div>
 
 
-![Illuminati Eye](https://upload.wikimedia.org/wikipedia/commons/7/74/Illuminati_eye_triangle.svg)
-_Image: The Illuminati Eye in a triangle_ ([source](https://commons.wikimedia.org/wiki/File:Illuminati_eye_triangle.svg))
+![Illuminati Eye](https://www.shutterstock.com/image-vector/illuminati-icon-masonic-third-eye-logo-2507415549)
+_Image: The Illuminati Eye in a triangle_ ([source](https://www.shutterstock.com/image-vector/illuminati-icon-masonic-third-eye-logo-2507415549))
 
 ---
 
@@ -120,9 +121,9 @@ html
 </style>
 
 <div class="gallery">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Illuminati_eye_triangle.svg" alt="Illuminati Eye Symbol">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/All_seeing_eye_on_dollar.jpg" alt="All-Seeing Eye on Dollar">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Pyramid_of_Khafre.jpg" alt="Pyramid of Khafre">
+  <img src="" alt="Illuminati Eye Symbol">
+  <img src="" alt="All-Seeing Eye on Dollar">
+  <img src="" alt="Pyramid of Khafre">
 </div>
 
 
@@ -147,6 +148,7 @@ html
       transform: rotate(360deg);
     }
   }
+  
 </style>
 
 <div class="illuminati-icon">
@@ -158,9 +160,9 @@ html
 ---
 
 ## References
-- [Illuminati Symbolism on Wiki Commons](https://commons.wikimedia.org/wiki/Category:Illuminati_symbols)
-- [Beyoncé on Wiki Commons](https://commons.wikimedia.org/wiki/File:Beyonce_Formation_World_Tour_2016.jpg)
-- [The Pyramid of Khafre](https://commons.wikimedia.org/wiki/File:Pyramid_of_Khafre.jpg)
-- [All-Seeing Eye on Dollar](https://commons.wikimedia.org/wiki/File:All_seeing_eye_on_dollar.jpg)
+- [Illuminati Symbolism on Wiki Commons]()
+- [Beyoncé on Wiki Commons]()
+- [The Pyramid of Khafre]()
+- [All-Seeing Eye on Dollar]()
 
 ---
