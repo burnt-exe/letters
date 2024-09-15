@@ -47,7 +47,7 @@ html
   "Once a user starts pinning conspiracy theories, Pinterest’s recommendations reinforce the narrative, turning their feed into an echo chamber."
 </blockquote>
 
-https://www.canva.com/design/DAGQ0xklTC8/xOJ4bqGA-HJh3CeqOuTcWw/edit?utm_content=DAGQ0xklTC8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+![](https://www.canva.com/design/DAGQ0xklTC8/xOJ4bqGA-HJh3CeqOuTcWw/edit?utm_content=DAGQ0xklTC8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
@@ -57,8 +57,8 @@ Conspiracy theorists often link the Illuminati to celebrities. Pinterest hosts m
 
 html
 <div style="text-align: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Beyonce_Formation_World_Tour_2016.jpg" alt="Beyoncé Illuminati" width="400">
-  <p><em>Image: Beyoncé, often linked with the Illuminati in conspiracy theories. ([source](https://commons.wikimedia.org/wiki/File:Beyonce_Formation_World_Tour_2016.jpg))</em></p>
+  <img src="https://th.bing.com/th/id/OIP.tyuIOLse7pHUtN3Y14H8kwHaIE?dpr=3&pid=ImgDetMain" alt="Beyoncé Illuminati" width="400">
+  <p><em>Image: Beyoncé, often linked with the Illuminati in conspiracy theories. ([source](https://th.bing.com/th/id/OIP.tyuIOLse7pHUtN3Y14H8kwHaIE?dpr=3&pid=ImgDetMain))</em></p>
 </div>
 
 
