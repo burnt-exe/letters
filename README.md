@@ -22,6 +22,7 @@ html
   <p style="padding-left: 20px;">Many boards feature curated collections of symbols and imagery like this pyramid.</p>
 </div>
 
+
 ![Pyramid of Khafre](https://upload.wikimedia.org/wikipedia/commons/2/21/Pyramid_of_Khafre.jpg)
 _Image: Pyramid of Khafre, Egypt_ ([source](https://commons.wikimedia.org/wiki/File:Pyramid_of_Khafre.jpg))
 
@@ -59,6 +60,7 @@ html
   <p><em>Image: Beyoncé, often linked with the Illuminati in conspiracy theories. ([source](https://commons.wikimedia.org/wiki/File:Beyonce_Formation_World_Tour_2016.jpg))</em></p>
 </div>
 
+
 ![Beyoncé Illuminati](https://upload.wikimedia.org/wikipedia/commons/2/2c/Beyonce_Formation_World_Tour_2016.jpg)
 _Image: Beyoncé during her Formation World Tour, 2016_ ([source](https://commons.wikimedia.org/wiki/File:Beyonce_Formation_World_Tour_2016.jpg))
 
@@ -73,6 +75,7 @@ html
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Illuminati_eye_triangle.svg" alt="Illuminati Meme" width="250" />
   <p style="padding-left: 20px;">Illuminati memes like this one blend humor and conspiracy, helping these ideas spread. ([source](https://commons.wikimedia.org/wiki/File:Illuminati_eye_triangle.svg))</p>
 </div>
+
 
 ![Illuminati Eye](https://upload.wikimedia.org/wikipedia/commons/7/74/Illuminati_eye_triangle.svg)
 _Image: The Illuminati Eye in a triangle_ ([source](https://commons.wikimedia.org/wiki/File:Illuminati_eye_triangle.svg))
@@ -91,6 +94,7 @@ html
   <p>On Pinterest, these ideas take the form of curated collections of symbolic imagery, creating a sense of hidden knowledge that users can explore.</p>
 
 </details>
+
 
 ---
 
@@ -121,6 +125,7 @@ html
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Pyramid_of_Khafre.jpg" alt="Pyramid of Khafre">
 </div>
 
+
 ---
 
 ## **8. Conclusion**
@@ -145,7 +150,7 @@ html
 </style>
 
 <div class="illuminati-icon">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Illuminati_eye_triangle.svg" alt="Illuminati Triangle" width="100">
+  <img src="https://www.shutterstock.com/image-vector/illuminati-icon-masonic-third-eye-logo-2507415549" alt="Illuminati Triangle" width="100">
 </div>
 <p><em>This rotating triangle adds an interactive flair to the page.</em></p>
 
@@ -157,6 +162,5 @@ html
 - [Beyoncé on Wiki Commons](https://commons.wikimedia.org/wiki/File:Beyonce_Formation_World_Tour_2016.jpg)
 - [The Pyramid of Khafre](https://commons.wikimedia.org/wiki/File:Pyramid_of_Khafre.jpg)
 - [All-Seeing Eye on Dollar](https://commons.wikimedia.org/wiki/File:All_seeing_eye_on_dollar.jpg)
-
 
 ---
